@@ -319,7 +319,7 @@ localStorageOrNot()
 console.log(arrayTopFive)
 console.log(listaEnLocalStorageTop5)
 
-let puntaje = 0
+let puntaje = 350
 let intentos = 3
 let respuestaCorrecta = 50
 let duplicarPuntaje = false
